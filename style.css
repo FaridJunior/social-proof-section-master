@@ -16,7 +16,7 @@
 
 body {
   font-family: "Spartan", sans-serif;
-  background: url(images/bg-pattern-top-desktop.svg);
+  background: url(images/bg-pattern-top-desktop.svg) no-repeat;
 }
 .flex {
   display: flex;
